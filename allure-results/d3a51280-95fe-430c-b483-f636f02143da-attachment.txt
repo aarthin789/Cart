@@ -1,0 +1,6 @@
+Opened Invoice Tab Title: Example Domain
+Mocked Payment API Response: {
+  status: 'SUCCESS',
+  transactionId: 'TXN_TEST_998877',
+  message: 'Payment completed successfully!'
+}
